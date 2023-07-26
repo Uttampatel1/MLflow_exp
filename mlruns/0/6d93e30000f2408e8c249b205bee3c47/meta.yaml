@@ -1,0 +1,15 @@
+artifact_uri: file:///home/indianic/Desktop/sentimate/Mlflow/mlruns/0/6d93e30000f2408e8c249b205bee3c47/artifacts
+end_time: 1690357593913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d93e30000f2408e8c249b205bee3c47
+run_name: fortunate-skink-789
+run_uuid: 6d93e30000f2408e8c249b205bee3c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690357592166
+status: 3
+tags: []
+user_id: indianic
