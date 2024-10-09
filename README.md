@@ -62,11 +62,14 @@ pip install mlflow[extras]  # Includes extra dependencies for various libraries
 
    ```bash
    mlflow ui
+
+   mlflow server --host 127.0.0.1 --port 8080
    ```
 
    By default, this will start the MLflow UI at `http://localhost:5000`. You can access it in your web browser.
+   `mlflow server` command starts the MLflow server at `http://127.0.0.1:8080`. You can access it in your web browser.
 
-2. **Run MLflow with a Python Script**:
+3. **Run MLflow with a Python Script**:
    Create a Python script (e.g., `train.py`) and include the following code to log an experiment:
 
    ```python
